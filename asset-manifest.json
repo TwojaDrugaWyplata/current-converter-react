@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/current-converter-react/static/css/main.19fdb538.chunk.css",
+    "main.js": "/current-converter-react/static/js/main.f3add8ee.chunk.js",
+    "main.js.map": "/current-converter-react/static/js/main.f3add8ee.chunk.js.map",
+    "runtime-main.js": "/current-converter-react/static/js/runtime-main.30475191.js",
+    "runtime-main.js.map": "/current-converter-react/static/js/runtime-main.30475191.js.map",
+    "static/js/2.59662f4b.chunk.js": "/current-converter-react/static/js/2.59662f4b.chunk.js",
+    "static/js/2.59662f4b.chunk.js.map": "/current-converter-react/static/js/2.59662f4b.chunk.js.map",
+    "index.html": "/current-converter-react/index.html",
+    "precache-manifest.a0c2ef7eb9efaf6211fbe1098a47837e.js": "/current-converter-react/precache-manifest.a0c2ef7eb9efaf6211fbe1098a47837e.js",
+    "service-worker.js": "/current-converter-react/service-worker.js",
+    "static/css/main.19fdb538.chunk.css.map": "/current-converter-react/static/css/main.19fdb538.chunk.css.map",
+    "static/js/2.59662f4b.chunk.js.LICENSE.txt": "/current-converter-react/static/js/2.59662f4b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/current-converter-react/static/media/background-picture.93df400b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30475191.js",
+    "static/js/2.59662f4b.chunk.js",
+    "static/css/main.19fdb538.chunk.css",
+    "static/js/main.f3add8ee.chunk.js"
+  ]
+}
