@@ -1,12 +1,17 @@
 html {
   box-sizing: border-box;
-  scroll-behavior: smooth;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
 }
 
 *, ::before, ::after {
   box-sizing: inherit;
 }
+
 body {
-  font-family: 'Merienda', sans-serif;
-  background-color: #eee;
+  background-image: url("./images/background-picture.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  padding-bottom: 50px;
+  position: relative;
 }

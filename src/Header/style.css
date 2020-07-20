@@ -1,0 +1,17 @@
+.header {
+    display: block;
+    padding: 30px;
+    font-size: 50px;
+    background-color: #143467;
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+    .header {
+        font-size: 35px;
+    }
+}
+
+.header__paragraph {
+    color: goldenrod;
+}

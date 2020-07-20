@@ -1,7 +1,7 @@
-# Interactive Task List Action
+# Interactive Current Converter Action
 
 
-## Want to see demo page? click [here](https://twojadrugawyplata.github.io/taskList/)
+## Want to see demo page? click [here](https://twojadrugawyplata.github.io/current-converter-react/)
 
 Here it is, my first interactive task list in React! 
 
