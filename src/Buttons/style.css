@@ -1,0 +1,37 @@
+.buttonContainer {
+    display: grid;
+    grid-template-columns: 1fr auto;
+}
+
+@media (max-width: 767px) {
+    .buttonContainer {
+        grid-template-columns: 1fr;
+        margin-bottom: 20px;
+    }
+}
+
+.buttonContainer__button {
+    background-color: transparent;
+    border: none;
+    padding: 20px;
+    color: teal;
+    transition: color 0.3s;
+}
+
+@media (max-width: 767px) {
+    .buttonContainer__button {
+        padding: 15px;
+    }
+}
+
+.buttonContainer__button:hover {
+    color: hsl(180, 100%, 35%);
+}
+
+.buttonContainer__button:active {
+    color: hsl(180, 100%, 45%);
+}
+
+.buttonContainer__button:disabled {
+    color: #ccc;
+}
